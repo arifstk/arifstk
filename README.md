@@ -87,7 +87,7 @@ Full Stack JavaScript Developer
       alt="Google Cloud" title="Google Cloud" width="15" height="15" /></a>
 </p>
 
-### Socials
+### Socials:
 
 <p align="left"> <a href="https://www.github.com/arifstk" target="_blank" rel="noreferrer">
     <picture>
@@ -96,7 +96,7 @@ Full Stack JavaScript Developer
       <source media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-        width="32" height="32" alt="GitHub" title="GitHub" />
+        width="20" height="20" alt="GitHub" title="GitHub" />
     </picture>
   </a> <a href="https://www.x.com/arif713" target="_blank" rel="noreferrer">
     <picture>
@@ -105,7 +105,7 @@ Full Stack JavaScript Developer
       <source media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-        width="32" height="32" alt="Twitter" title="Twitter" />
+        width="20" height="20" alt="Twitter" title="Twitter" />
     </picture>
   </a> <a href="https://www.linkedin.com/in/arif-713" target="_blank" rel="noreferrer">
     <picture>
@@ -114,7 +114,7 @@ Full Stack JavaScript Developer
       <source media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-        width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+        width="20" height="20" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a> <a href="https://www.facebook.com/arif713" target="_blank" rel="noreferrer">
     <picture>
@@ -123,7 +123,7 @@ Full Stack JavaScript Developer
       <source media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-        width="32" height="32" alt="Facebook" title="Facebook" />
+        width="20" height="20" alt="Facebook" title="Facebook" />
     </picture>
   </a></p>
 ### Badges
