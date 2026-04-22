@@ -51,8 +51,15 @@ Full Stack JavaScript Developer
 * 🖥️ See my portfolio at [My PortFolio](http://github.com/arifstk)
 * ✉️ You can contact me at [arifsk.dev@gmail.com](mailto:arifsk.dev@gmail.com)
 
-###Skills: 
-    * Html    * Css    * JavaScript    * Tailwind CSS    * React JS    * Next JS    * Typescript    * Node JS    
+Skills: 
+    * Html
+    * Css
+    * JavaScript
+    * Tailwind CSS
+    * React JS
+    * Next JS
+    * Typescript
+    * Node JS    
 
 <!-- <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
