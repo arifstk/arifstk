@@ -51,7 +51,10 @@ Full Stack JavaScript Developer
 * 🖥️ See my portfolio at [My PortFolio](http://github.com/arifstk)
 * ✉️ You can contact me at [arifsk.dev@gmail.com](mailto:arifsk.dev@gmail.com)
 
-<p align="left">
+###Skills: 
+    * Html    * Css    * JavaScript    * Tailwind CSS    * React JS    * Next JS    * Typescript    * Node JS    
+
+<!-- <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
       alt="TypeScript" title="TypeScript" width="15" height="15" /></a><a href="https://git-scm.com/" target="_blank"
@@ -85,11 +88,9 @@ Full Stack JavaScript Developer
     rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
       alt="Google Cloud" title="Google Cloud" width="15" height="15" /></a>
-</p>
+</p> -->
 
-### Socials:
-
-<p align="left"> <a href="https://www.github.com/arifstk" target="_blank" rel="noreferrer">
+<!-- <p align="left"> <a href="https://www.github.com/arifstk" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)"
         srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -125,8 +126,8 @@ Full Stack JavaScript Developer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
         width="20" height="20" alt="Facebook" title="Facebook" />
     </picture>
-  </a></p>
-### Badges
+  </a></p>  -->
+
 
 <b>My GitHub Stats</b>
 
