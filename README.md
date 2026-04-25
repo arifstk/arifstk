@@ -1,7 +1,4 @@
 
-
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm
 Arif Hossain
 =====================================================================================================================================
@@ -16,17 +13,15 @@ Full Stack JavaScript Developer
 Skills:  Html  |  Css  |  JavaScript  |  Tailwind CSS  |  React JS  |  Next JS  |  Typescript  |  Node JS    
 
 
-
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/arifstk"><img
-   height="150em" src="https://github-readme-stats.vercel.app/api?username=arifstk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=20B2AA&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+   height="150em" src="https://github-readme-stats.vercel.app/api?username=arifstk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=D3D3D3&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
     alt="arifstk's GitHub stats" /></a>
 
 <!-- <a href="https://github.com/arifstk" align="left"><img
    height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
     alt="Top Languages" /></a> -->
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&layout=compact&langs_count=8&theme=tokyonight"/>
 
