@@ -128,6 +128,23 @@ Skills:  Html  |  Css  |  JavaScript  |  Tailwind CSS  |  React JS  |  Next JS  
   </a></p>  -->
 
 
+  ### 📊 My GitHub Stats
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifhossain&show_icons=true&theme=tokyonight)
+
+### 🔥 Streak Stats
+![Arif's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arifhossain&theme=tokyonight)
+
+### 💻 Top Languages
+![Arif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhossain&layout=compact&theme=tokyonight)
+
+### 🌟 Contribution Graph
+![Arif's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arifhossain&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+![Arif's Trophies](https://github-profile-trophy.vercel.app/?username=arifhossain&theme=tokyonight&row=1&column=6)
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/arifstk"><img
