@@ -128,23 +128,6 @@ Skills:  Html  |  Css  |  JavaScript  |  Tailwind CSS  |  React JS  |  Next JS  
   </a></p>  -->
 
 
-  ### 📊 My GitHub Stats
-![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifhossain&show_icons=true&theme=tokyonight)
-
-### 🔥 Streak Stats
-![Arif's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arifhossain&theme=tokyonight)
-
-### 💻 Top Languages
-![Arif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhossain&layout=compact&theme=tokyonight)
-
-### 🌟 Contribution Graph
-![Arif's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arifhossain&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-![Arif's Trophies](https://github-profile-trophy.vercel.app/?username=arifhossain&theme=tokyonight&row=1&column=6)
-
-
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/arifstk"><img
@@ -154,3 +137,5 @@ Skills:  Html  |  Css  |  JavaScript  |  Tailwind CSS  |  React JS  |  Next JS  
 <a href="https://github.com/arifstk" align="left"><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
     alt="Top Languages" /></a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&layout=compact&langs_count=8&theme=tokyonight"/>
