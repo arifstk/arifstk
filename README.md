@@ -29,4 +29,5 @@ Skills:  Html  |  Css  |  JavaScript  |  Tailwind CSS  |  React JS  |  Next JS  
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&layout=compact&langs_count=8&title_color=0891b2&text_color=D3D3D3&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </p>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=arifstk&hide_border=true&border_radius=9.5&custom_title=My+Stats%3A&hide=stars%2Chours%2Cstreak%2Crepos%2Cfollowers)
+<!--
+![GitHub Stats Card](https://ghstats.dev/api/card?username=arifstk&hide_border=true&border_radius=9.5&custom_title=My+Stats%3A&hide=stars%2Chours%2Cstreak%2Crepos%2Cfollowers)  -->
