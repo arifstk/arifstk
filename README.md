@@ -13,11 +13,10 @@ Full Stack JavaScript Developer
 Skills:  Html  |  Css  |  JavaScript  |  Tailwind CSS  |  React JS  |  Next JS  |  Typescript  |  Node JS    
 
 
-<b>My GitHub Stats</b>
 
 <p align="left">
    <a href="http://www.github.com/arifstk"><img
-   height="143em" src="https://github-readme-stats.vercel.app/api?username=arifstk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=D3D3D3&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+   height="137em" src="https://github-readme-stats.vercel.app/api?username=arifstk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=D3D3D3&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
     alt="GitHub stats" /></a>
 
 <!-- <a href="https://github.com/arifstk" align="left"><img
