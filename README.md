@@ -16,7 +16,7 @@ Skills:  Html  |  Css  |  JavaScript  |  Tailwind CSS  |  React JS  |  Next JS  
 
 <p align="left">
    <a href="http://www.github.com/arifstk"><img
-   height="137em" src="https://github-readme-stats.vercel.app/api?username=arifstk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=D3D3D3&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+   height="135em" src="https://github-readme-stats.vercel.app/api?username=arifstk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=D3D3D3&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
     alt="GitHub stats" /></a>
 
 <!-- <a href="https://github.com/arifstk" align="left"><img
@@ -25,7 +25,7 @@ Skills:  Html  |  Css  |  JavaScript  |  Tailwind CSS  |  React JS  |  Next JS  
 
    <!--   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&layout=compact&langs_count=8&theme=tokyonight"/>  -->
 
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&layout=compact&langs_count=8&title_color=0891b2&text_color=D3D3D3&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifstk&layout=compact&langs_count=8&title_color=0891b2&text_color=D3D3D3&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </p>
 
 <!--
